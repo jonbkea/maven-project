@@ -6,3 +6,5 @@ Check out the full list of DevOps and Big Data courses that James and Tao teach.
 https://www.level-up.one/courses/
 
 This is Jons edition of the project
+
+Værsgo
